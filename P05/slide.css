@@ -1,0 +1,27 @@
+body{
+      background-color: blanchedalmond;
+}
+
+#flip {
+      padding: 5px;
+      text-align: center;
+      background-color: grey;
+      border: solid 1px green;
+      font-family: Times New Roman;
+      color: black;
+      cursor: pointer;
+}
+
+#flip:hover{
+    background-color: mintcream;
+}
+    
+#panel {
+      padding: 50px;
+      text-align: center;
+      background-color: grey;
+      border: solid 1px blue;
+      font-family: Times New Roman;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      display: none;
+    }
